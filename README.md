@@ -60,6 +60,8 @@ El código de los ejercicios y proyectos está organizado por semanas para un se
 php-30-dias/
 ├── README.md                 <-- Este archivo.
 ├── semana-01-fundamentos/      <-- Fundamentos, lógica y mini-proyecto 1.
+|   ├── dia-01-sintaxis.php
+|   ├── dia-07-mini-proyecto.php
 ├── semana-02-poo/              <-- Clases, herencia y mini-proyecto 2.
 ├── semana-03-crud-db/          <-- Bases de datos, seguridad y mini-proyecto 3.
 ├── semana-04-api-rest/         <-- APIs, JWT y proyecto final.
@@ -161,16 +163,6 @@ Marca la casilla `[ ]` a `[x]` y añade la fecha para registrar tu progreso.
 | **Día 30** | Conclusión | Planificar próximos pasos (Testing, Docker). | `[ ]` | `[ / ]` |
 
 </div>
-
----
-
-## 🤝 Cómo Contribuir
-
-1. Fork este repositorio
-2. Crea tu rama de características (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
 
 ---
 
