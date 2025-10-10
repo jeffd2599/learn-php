@@ -31,7 +31,7 @@ El objetivo es completar el plan diario, construir 4 mini-proyectos funcionales 
 |--------|----------|
 | 📅 **Fecha de Inicio** | `09 / 10 / 2025` |
 | ✅ **Proyecto Finalizado** | `[ ]` |
-| 📈 **Días Completados** | `0 / 30` |
+| 📈 **Días Completados** | `1 / 30` |
 | 🏆 **Mini-proyectos** | `0 / 4` |
 
 </div>
@@ -96,9 +96,9 @@ Marca la casilla `[ ]` a `[x]` y añade la fecha para registrar tu progreso.
 
 <div align="center">
 
-| Día | Tema Principal | Tarea Práctica Clave | Estado | Fecha |
+| Día | Tema Principal | Tarea Práctica Clave | Estado | Fecha Inicio / Fecha Fin|
 |:---:|:---|:---|:---:|:---:|
-| **Día 1** | Instalación y Sintaxis | Variables y `echo "Hola Mundo";`. | `[ ]` | `[ / ]` |
+| **Día 1** | Instalación y Sintaxis | Variables y `echo "Hola Mundo";`. | `[X]` | `[09-10-2025 / 09-10-2025]` |
 | **Día 2** | Tipos de Datos y Operadores | Crear una calculadora básica. | `[ ]` | `[ / ]` |
 | **Día 3** | Control de Flujo | Validador de edad con `if/else`. | `[ ]` | `[ / ]` |
 | **Día 4** | Bucles y Control | Imprimir listas con `for` y `foreach`. | `[ ]` | `[ / ]` |
@@ -114,7 +114,7 @@ Marca la casilla `[ ]` a `[x]` y añade la fecha para registrar tu progreso.
 
 <div align="center">
 
-| Día | Tema Principal | Tarea Práctica Clave | Estado | Fecha |
+| Día | Tema Principal | Tarea Práctica Clave | Estado | Fecha Inicio / Fecha Fin |
 |:---:|:---|:---|:---:|:---:|
 | **Día 8** | Clases y Objetos | Crear una clase `Coche` con propiedades y métodos. | `[ ]` | `[ / ]` |
 | **Día 9** | Pilares de POO | **Encapsulamiento** (`private`) y **Herencia** (`extends`). | `[ ]` | `[ / ]` |
@@ -132,7 +132,7 @@ Marca la casilla `[ ]` a `[x]` y añade la fecha para registrar tu progreso.
 
 <div align="center">
 
-| Día | Tema Principal | Tarea Práctica Clave | Estado | Fecha |
+| Día | Tema Principal | Tarea Práctica Clave | Estado | Fecha Inicio / Fecha Fin |
 |:---:|:---|:---|:---:|:---:|
 | **Día 15** | DB y Conexión | Conectar a MySQL/MariaDB con **PDO**. | `[ ]` | `[ / ]` |
 | **Día 16** | Operación READ (Leer) | Consulta `SELECT` para mostrar datos en una tabla. | `[ ]` | `[ / ]` |
@@ -150,7 +150,7 @@ Marca la casilla `[ ]` a `[x]` y añade la fecha para registrar tu progreso.
 
 <div align="center">
 
-| Día | Tema Principal | Tarea Práctica Clave | Estado | Fecha |
+| Día | Tema Principal | Tarea Práctica Clave | Estado | Fecha Inicio / Fecha Fin |
 |:---:|:---|:---|:---:|:---:|
 | **Día 22** | Intro a APIs REST | Diseñar *Endpoints* y entender Verbos HTTP. | `[ ]` | `[ / ]` |
 | **Día 23** | Manejo de JSON | Usar `json_encode()` y `json_decode()`. | `[ ]` | `[ / ]` |
