@@ -31,7 +31,7 @@ El objetivo es completar el plan diario, construir 4 mini-proyectos funcionales 
 |--------|----------|
 | 📅 **Fecha de Inicio** | `09 / 10 / 2025` |
 | ✅ **Proyecto Finalizado** | `[ ]` |
-| 📈 **Días Completados** | `1 / 30` |
+| 📈 **Días Completados** | `2 / 30` |
 | 🏆 **Mini-proyectos** | `0 / 4` |
 
 </div>
@@ -99,7 +99,7 @@ Marca la casilla `[ ]` a `[x]` y añade la fecha para registrar tu progreso.
 | Día | Tema Principal | Tarea Práctica Clave | Estado | Fecha Inicio / Fecha Fin|
 |:---:|:---|:---|:---:|:---:|
 | **Día 1** | Instalación y Sintaxis | Variables y `echo "Hola Mundo";`. | `[X]` | `[09-10-2025 / 09-10-2025]` |
-| **Día 2** | Tipos de Datos y Operadores | Crear una calculadora básica. | `[ ]` | `[ / ]` |
+| **Día 2** | Tipos de Datos y Operadores | Crear una calculadora básica. | `[X]` | `[10-10-2025 / 10-10-2025]` |
 | **Día 3** | Control de Flujo | Validador de edad con `if/else`. | `[ ]` | `[ / ]` |
 | **Día 4** | Bucles y Control | Imprimir listas con `for` y `foreach`. | `[ ]` | `[ / ]` |
 | **Día 5** | Arrays | Crear un array asociativo de un "libro". | `[ ]` | `[ / ]` |
