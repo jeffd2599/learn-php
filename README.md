@@ -31,7 +31,7 @@ El objetivo es completar el plan diario, construir 4 mini-proyectos funcionales 
 |--------|----------|
 | 📅 **Fecha de Inicio** | `09 / 10 / 2025` |
 | ✅ **Proyecto Finalizado** | `[ ]` |
-| 📈 **Días Completados** | `4 / 30` |
+| 📈 **Días Completados** | `5 / 30` |
 | 🏆 **Mini-proyectos** | `0 / 4` |
 
 </div>
@@ -102,7 +102,7 @@ Marca la casilla `[ ]` a `[x]` y añade la fecha para registrar tu progreso.
 | **Día 2** | Tipos de Datos y Operadores | Crear una calculadora básica. | `[X]` | `[10-10-2025 / 10-10-2025]` |
 | **Día 3** | Control de Flujo | Validador de edad con `if/else`. | `[X]` | `[11-10-2025 / 11-10-2025]` |
 | **Día 4** | Bucles y Control | Imprimir listas con `for` y `foreach`. | `[X]` | `[12-10-2025 / 12-10-2025]` |
-| **Día 5** | Arrays | Crear un array asociativo de un "libro". | `[ ]` | `[ / ]` |
+| **Día 5** | Arrays | Crear un array asociativo de un "libro". | `[X]` | `[02-11-2025 / 02-11-2025]` |
 | **Día 6** | Funciones | Funciones para sumar, restar y multiplicar. | `[ ]` | `[ / ]` |
 | **Día 7** | Mini-Proyecto | **"Gestor de Tareas Simple"** (con arrays). | `[ ]` | `[ / ]` |
 
