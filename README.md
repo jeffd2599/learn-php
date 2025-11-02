@@ -104,7 +104,7 @@ Marca la casilla `[ ]` a `[x]` y añade la fecha para registrar tu progreso.
 | **Día 4** | Bucles y Control | Imprimir listas con `for` y `foreach`. | `[X]` | `[12-10-2025 / 12-10-2025]` |
 | **Día 5** | Arrays | Crear un array asociativo de un "libro". | `[X]` | `[02-11-2025 / 02-11-2025]` |
 | **Día 6** | Funciones | Funciones para sumar, restar y multiplicar. | `[X]` | `[02-11-2025 / 02-11-2025]` |
-| **Día 7** | Mini-Proyecto | **"Gestor de Tareas Simple"** (con arrays). | `[ ]` | `[ / ]` |
+| **Día 7** | Mini-Proyecto | **"Gestor de Tareas Simple"** (con arrays). | `[ ]` | `[02-10-2025 / ]` |
 
 </div>
 
